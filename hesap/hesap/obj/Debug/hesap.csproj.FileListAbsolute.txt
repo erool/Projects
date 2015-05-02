@@ -1,0 +1,9 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hesap\hesap\bin\Debug\hesap.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hesap\hesap\bin\Debug\hesap.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hesap\hesap\bin\Debug\hesap.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hesap\hesap\obj\Debug\hesap.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hesap\hesap\obj\Debug\hesap.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hesap\hesap\obj\Debug\hesap.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hesap\hesap\obj\Debug\hesap.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hesap\hesap\obj\Debug\hesap.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hesap\hesap\obj\Debug\hesap.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\yeni\yeni\bin\Debug\yeni.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\yeni\yeni\bin\Debug\yeni.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\yeni\yeni\bin\Debug\yeni.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\yeni\yeni\obj\Debug\yeni.csprojResolveAssemblyReference.cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\yeni\yeni\obj\Debug\yeni.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\yeni\yeni\obj\Debug\yeni.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\yeni\yeni\obj\Debug\yeni.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\yeni\yeni\obj\Debug\yeni.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\yeni\yeni\obj\Debug\yeni.pdb

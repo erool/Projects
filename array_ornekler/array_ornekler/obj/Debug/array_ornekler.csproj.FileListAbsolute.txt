@@ -1,0 +1,8 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\array_ornekler\array_ornekler\bin\Debug\array_ornekler.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\array_ornekler\array_ornekler\bin\Debug\array_ornekler.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\array_ornekler\array_ornekler\bin\Debug\array_ornekler.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\array_ornekler\array_ornekler\obj\Debug\array_ornekler.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\array_ornekler\array_ornekler\obj\Debug\array_ornekler.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\array_ornekler\array_ornekler\obj\Debug\array_ornekler.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\array_ornekler\array_ornekler\obj\Debug\array_ornekler.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\array_ornekler\array_ornekler\obj\Debug\array_ornekler.pdb

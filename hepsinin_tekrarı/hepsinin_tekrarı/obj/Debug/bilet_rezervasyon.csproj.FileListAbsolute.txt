@@ -1,0 +1,9 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hepsinin_tekrarı\hepsinin_tekrarı\bin\Debug\hepsinin_tekrarı.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hepsinin_tekrarı\hepsinin_tekrarı\bin\Debug\hepsinin_tekrarı.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hepsinin_tekrarı\hepsinin_tekrarı\bin\Debug\hepsinin_tekrarı.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hepsinin_tekrarı\hepsinin_tekrarı\obj\Debug\bilet_rezervasyon.csprojResolveAssemblyReference.cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hepsinin_tekrarı\hepsinin_tekrarı\obj\Debug\hepsinin_tekrarı.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hepsinin_tekrarı\hepsinin_tekrarı\obj\Debug\hepsinin_tekrarı.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hepsinin_tekrarı\hepsinin_tekrarı\obj\Debug\bilet_rezervasyon.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hepsinin_tekrarı\hepsinin_tekrarı\obj\Debug\hepsinin_tekrarı.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hepsinin_tekrarı\hepsinin_tekrarı\obj\Debug\hepsinin_tekrarı.pdb

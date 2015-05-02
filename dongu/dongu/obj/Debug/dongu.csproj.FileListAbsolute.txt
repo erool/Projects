@@ -1,0 +1,9 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\dongu\dongu\bin\Debug\dongu.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\dongu\dongu\bin\Debug\dongu.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\dongu\dongu\bin\Debug\dongu.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\dongu\dongu\obj\Debug\dongu.csprojResolveAssemblyReference.cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\dongu\dongu\obj\Debug\dongu.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\dongu\dongu\obj\Debug\dongu.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\dongu\dongu\obj\Debug\dongu.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\dongu\dongu\obj\Debug\dongu.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\dongu\dongu\obj\Debug\dongu.pdb

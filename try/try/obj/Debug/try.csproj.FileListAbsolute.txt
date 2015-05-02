@@ -1,0 +1,9 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\try\try\bin\Debug\@try.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\try\try\bin\Debug\@try.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\try\try\bin\Debug\@try.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\try\try\obj\Debug\try.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\try\try\obj\Debug\try.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\try\try\obj\Debug\try.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\try\try\obj\Debug\@try.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\try\try\obj\Debug\@try.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\try\try\obj\Debug\try.csprojResolveAssemblyReference.cache

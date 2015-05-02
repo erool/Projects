@@ -1,0 +1,9 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ornek1\ornek1\bin\Debug\ornek1.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ornek1\ornek1\bin\Debug\ornek1.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ornek1\ornek1\bin\Debug\ornek1.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ornek1\ornek1\obj\Debug\ornek1.csprojResolveAssemblyReference.cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ornek1\ornek1\obj\Debug\ornek1.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ornek1\ornek1\obj\Debug\ornek1.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ornek1\ornek1\obj\Debug\ornek1.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ornek1\ornek1\obj\Debug\ornek1.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ornek1\ornek1\obj\Debug\ornek1.pdb

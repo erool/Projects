@@ -1,0 +1,9 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hadibakalım\hadibakalım\bin\Debug\hadibakalım.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hadibakalım\hadibakalım\bin\Debug\hadibakalım.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hadibakalım\hadibakalım\bin\Debug\hadibakalım.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hadibakalım\hadibakalım\obj\Debug\hadibakalım.csprojResolveAssemblyReference.cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hadibakalım\hadibakalım\obj\Debug\hadibakalım.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hadibakalım\hadibakalım\obj\Debug\hadibakalım.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hadibakalım\hadibakalım\obj\Debug\hadibakalım.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hadibakalım\hadibakalım\obj\Debug\hadibakalım.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\hadibakalım\hadibakalım\obj\Debug\hadibakalım.pdb

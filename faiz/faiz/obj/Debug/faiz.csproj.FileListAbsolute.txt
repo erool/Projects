@@ -1,0 +1,9 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\faiz\faiz\bin\Debug\faiz.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\faiz\faiz\bin\Debug\faiz.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\faiz\faiz\bin\Debug\faiz.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\faiz\faiz\obj\Debug\faiz.csprojResolveAssemblyReference.cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\faiz\faiz\obj\Debug\faiz.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\faiz\faiz\obj\Debug\faiz.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\faiz\faiz\obj\Debug\faiz.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\faiz\faiz\obj\Debug\faiz.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\faiz\faiz\obj\Debug\faiz.pdb

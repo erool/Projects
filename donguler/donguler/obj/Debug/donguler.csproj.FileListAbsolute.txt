@@ -1,0 +1,8 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\donguler\donguler\bin\Debug\donguler.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\donguler\donguler\bin\Debug\donguler.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\donguler\donguler\bin\Debug\donguler.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\donguler\donguler\obj\Debug\donguler.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\donguler\donguler\obj\Debug\donguler.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\donguler\donguler\obj\Debug\donguler.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\donguler\donguler\obj\Debug\donguler.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\donguler\donguler\obj\Debug\donguler.pdb

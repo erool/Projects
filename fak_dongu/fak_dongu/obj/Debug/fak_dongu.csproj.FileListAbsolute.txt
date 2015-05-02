@@ -1,0 +1,9 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\fak_dongu\fak_dongu\bin\Debug\fak_dongu.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\fak_dongu\fak_dongu\bin\Debug\fak_dongu.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\fak_dongu\fak_dongu\bin\Debug\fak_dongu.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\fak_dongu\fak_dongu\obj\Debug\fak_dongu.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\fak_dongu\fak_dongu\obj\Debug\fak_dongu.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\fak_dongu\fak_dongu\obj\Debug\fak_dongu.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\fak_dongu\fak_dongu\obj\Debug\fak_dongu.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\fak_dongu\fak_dongu\obj\Debug\fak_dongu.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\fak_dongu\fak_dongu\obj\Debug\fak_dongu.csprojResolveAssemblyReference.cache

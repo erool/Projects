@@ -1,0 +1,9 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\kararyapılari\kararyapılari\bin\Debug\kararyapılari.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\kararyapılari\kararyapılari\bin\Debug\kararyapılari.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\kararyapılari\kararyapılari\bin\Debug\kararyapılari.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\kararyapılari\kararyapılari\obj\Debug\kararyapılari.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\kararyapılari\kararyapılari\obj\Debug\kararyapılari.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\kararyapılari\kararyapılari\obj\Debug\kararyapılari.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\kararyapılari\kararyapılari\obj\Debug\kararyapılari.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\kararyapılari\kararyapılari\obj\Debug\kararyapılari.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\kararyapılari\kararyapılari\obj\Debug\kararyapılari.csprojResolveAssemblyReference.cache

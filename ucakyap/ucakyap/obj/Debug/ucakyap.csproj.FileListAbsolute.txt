@@ -1,0 +1,9 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ucakyap\ucakyap\bin\Debug\ucakyap.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ucakyap\ucakyap\bin\Debug\ucakyap.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ucakyap\ucakyap\bin\Debug\ucakyap.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ucakyap\ucakyap\obj\Debug\ucakyap.csprojResolveAssemblyReference.cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ucakyap\ucakyap\obj\Debug\ucakyap.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ucakyap\ucakyap\obj\Debug\ucakyap.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ucakyap\ucakyap\obj\Debug\ucakyap.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ucakyap\ucakyap\obj\Debug\ucakyap.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\ucakyap\ucakyap\obj\Debug\ucakyap.pdb

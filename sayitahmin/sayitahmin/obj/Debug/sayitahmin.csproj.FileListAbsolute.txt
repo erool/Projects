@@ -1,0 +1,9 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\sayitahmin\sayitahmin\bin\Debug\sayitahmin.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\sayitahmin\sayitahmin\obj\Debug\sayitahmin.csprojResolveAssemblyReference.cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\sayitahmin\sayitahmin\obj\Debug\sayitahmin.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\sayitahmin\sayitahmin\obj\Debug\sayitahmin.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\sayitahmin\sayitahmin\obj\Debug\sayitahmin.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\sayitahmin\sayitahmin\bin\Debug\sayitahmin.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\sayitahmin\sayitahmin\bin\Debug\sayitahmin.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\sayitahmin\sayitahmin\obj\Debug\sayitahmin.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\sayitahmin\sayitahmin\obj\Debug\sayitahmin.pdb

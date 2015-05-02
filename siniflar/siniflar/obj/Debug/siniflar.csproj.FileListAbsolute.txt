@@ -1,0 +1,9 @@
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\siniflar\siniflar\bin\Debug\siniflar.exe.config
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\siniflar\siniflar\bin\Debug\siniflar.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\siniflar\siniflar\bin\Debug\siniflar.pdb
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\siniflar\siniflar\obj\Debug\siniflar.csprojResolveAssemblyReference.cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\siniflar\siniflar\obj\Debug\siniflar.Form1.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\siniflar\siniflar\obj\Debug\siniflar.Properties.Resources.resources
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\siniflar\siniflar\obj\Debug\siniflar.csproj.GenerateResource.Cache
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\siniflar\siniflar\obj\Debug\siniflar.exe
+c:\users\erol.kirnavoglu\documents\visual studio 2013\Projects\siniflar\siniflar\obj\Debug\siniflar.pdb
